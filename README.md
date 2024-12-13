@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @VAkhila11
 - 👀 I’m interested in Web Development,Problem Solving.
 - 🌱 I’m currently learning Full Stack, Devops,ML.
-- 💞️ I’m looking to collaborate on developing and enhancing SymptoCare, a location-based application designed to provide users with a comprehensive symptom checker and healthcare information platform.
 - 📫 How to reach me vadlaakhila122@gmail.com 
   
 
