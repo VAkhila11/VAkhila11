@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VAkhila11
-- 👀 I’m interested in Web Development,Problem Solving.
-- 🌱 I’m currently learning Full Stack, Devops,ML.
+- 👀 I’m interested in Web Development,Problem Solving and other fresher roles.
+- 🌱 I’m currently learning Full Stack, Devops,ML,CYBERSECURITY.
 - 📫 How to reach me vadlaakhila122@gmail.com 
   
 
